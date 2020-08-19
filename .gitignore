@@ -1,0 +1,10 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# 忽略打包上传后的组件包
+/components/category-list/components/*
+/components/category-list/components.zip
+
+# 忽略动态生成的文件
+/components/unpackage/*
+
+.DS_Store
